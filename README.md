@@ -18,9 +18,10 @@ This project uses the **TensorFlow Beans dataset** to detect plant diseases usin
  Results
 Achieved validation accuracy: ~95% (10 epochs)
 
- Group_Members
-- [Ermiyas daniel ---------------DBUE0940/13
-- Ermiyas daniel ---------------DBUE0940/13
-- Ermiyas daniel ---------------DBUE0940/13
-- Ermiyas daniel ---------------DBUE0940/13]
-- [section B]
+Group Members
+1.	      Ermiyas Daniel               DBUE/0940/13          
+2.	      Henok getachew             DBUE/0751/13    
+3.	      Daniel mekonnen            DBUE/0724/13   
+4.	      Ephrem melkamu            DBUE/0734/13 
+5.	      Tsedeniya tekalgn            DBUE/0785/13   
+
