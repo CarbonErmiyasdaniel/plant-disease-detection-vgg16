@@ -17,6 +17,7 @@ This project uses the **TensorFlow Beans dataset** to detect plant diseases usin
 
  Results
 Achieved validation accuracy: ~95% (10 epochs)
+gardino interface link https://60f2795113a76e5ff7.gradio.live/
 
 Group Members
 1.	      Ermiyas Daniel               DBUE/0940/13          
